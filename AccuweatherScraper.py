@@ -1,4 +1,6 @@
 '''
+    BY: Isaac Lehman
+    ------------------------------------------------
     Scrapes Accuweather for a given location URL
     and returns a formated overiview of today.
     and tommorows weather.
