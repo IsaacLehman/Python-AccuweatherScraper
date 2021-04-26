@@ -18,8 +18,6 @@
     ------------------------------------------------
     • 43°f and Wind gusts
     • Realfeel® 41°
-    • Wind: Fair
-    • Gusts Up To: Nnw 12 mph
 
 
     Today’s weather forecast (4/26)
@@ -60,8 +58,6 @@ def weather_current_text(current):
     w_str += '------------------------------------------------' + NEW_LINE
     w_str += '• ' + current[2] + ' and ' + current[11] + NEW_LINE
     w_str += '• Realfeel® ' + current[4] + NEW_LINE
-    w_str += '• Wind: ' + current[8] + NEW_LINE
-    w_str += '• Gusts Up To: ' + current[10] + NEW_LINE
     return w_str
 
 def weather_card_text(card):
