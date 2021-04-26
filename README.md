@@ -17,8 +17,6 @@ Scrapes Accuweather for a given location URL
     ------------------------------------------------
     • 43°f and Wind gusts
     • Realfeel® 41°
-    • Wind: Fair
-    • Gusts Up To: Nnw 12 mph
 
 
     Today’s weather forecast (4/26)
